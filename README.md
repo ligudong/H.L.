@@ -1,2 +1,4 @@
-# Haodong
-这个库包含了本文所有的R脚本、数据处理管道和图形生成代码：  “平衡颗粒物和臭氧控制，加强粮食安全”  该研究量化了细态气溶胶（fAOD）和臭氧（O₃）对中国农作物产量和热量供应的影响，并探索了共同优化粮食安全结果的空气污染控制策略。
+# Scripts
+This repository contains all R scripts, data processing pipelines, and figure generation codes for the paper:
+“Balancing particulate matter and ozone control enhances food security”
+The study quantifies the impacts of fine-mode aerosols (fAOD) and ozone (O₃) on crop yield and calorie supply in China, and explores air pollution control strategies that co-optimize food security outcomes.
